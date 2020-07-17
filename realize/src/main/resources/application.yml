@@ -1,0 +1,7 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://124.70.195.114:3306/wit_clot_basis?useUnicode=true&characterEncoding=UTF-8&useSSL=false&allowMultiQueries=true&serverTimezone=Hongkong
+    username: root
+    password: usoft666...
+    driver-class-name: com.mysql.cj.jdbc.Driver
